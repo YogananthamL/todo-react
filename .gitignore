@@ -32,6 +32,7 @@ db.sqlite3-journal
 venv/
 env/
 ENV/
+.venv/
 
 # Node
 node_modules/
